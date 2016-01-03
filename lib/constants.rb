@@ -3,7 +3,7 @@ module Constants
   DAY_END = 6
   BUILD_MEETINGS = 1
   PRE_MEETINGS = 0
-  DEFAULT_LOGIN = "spectrum3847@gmail.com"
+  DEFAULT_LOGIN = "signup@team900.org"
   TEAM_NAME = 'Spectrum'
   TEAM_NUMBER = '3847'
   SCHOOL_NAME_REPLACEMENT = 'Spectrum'
