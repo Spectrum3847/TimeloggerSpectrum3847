@@ -1,16 +1,16 @@
 module Constants
-  TIMEZONE = 'Central Time (US & Canada)'
-  DAY_END = 6
-  BUILD_MEETINGS = 1
-  PRE_MEETINGS = 0
-  DEFAULT_LOGIN = "spectrum3847@gmail.com"
-  TEAM_NAME = 'Spectrum'
-  TEAM_NUMBER = '3847'
-  SCHOOL_NAME_REPLACEMENT = 'Spectrum'
+  TIMEZONE = 'Eastern Time (US & Canada)'
+  DAY_END = 1
+  BUILD_MEETINGS = 2
+  PRE_MEETINGS = 1
+  DEFAULT_LOGIN = "signup@team900.org"
+  TEAM_NAME = 'Zebracorns'
+  TEAM_NUMBER = '900'
+  SCHOOL_NAME_REPLACEMENT = 'School'
   GENDERS = ['Male', 'Female', 'Other']
-  FRESHMAN_HOURS = 1
-  SOPHOMORE_HOURS = 1
-  JUNIOR_HOURS = 1
-  SENIOR_HOURS = 1
-  LEADERSHIP_HOURS = 1
+  FRESHMAN_HOURS = 6
+  SOPHOMORE_HOURS = 8
+  JUNIOR_HOURS = 10
+  SENIOR_HOURS = 10
+  LEADERSHIP_HOURS = 15
 end
